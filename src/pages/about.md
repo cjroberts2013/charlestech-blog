@@ -1,23 +1,24 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
+title: "About Me"
+date: "2020-01-18"
+author: "Charles"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+Welcome to my blog! My name is Charles Roberts and I am aspiring to be a front-end developer. I live in Austin, Tx and spend most of my free time coding, running or kayaking. This blog will serve as a way for me to communicate my progress towards becoming a hired developer along with being a record of my progression. Currently, my focus is on the frontend framework/library React.js. This blog is actually my first deployed project using react along with gatsby. There is so much out there to learn and I am excited to keep improving my knowledge and myself. My main goal for this year, outside of landing my first developer job, is to be somebody today, that I would be proud of tomorrow. Thank you so much for checking out my post and if youd like to learn more about me, feel free to check out my [INSTAGRAM](https://instagram.com/cj_roberts) and my [TWITTER](https://twitter.com/cjrobertstech) where I post daily about my coding progress.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+<img src="../images/kayak.jpg"
+     alt="kayaking"
+     style="width: 200px; height: 200px;" />
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+> Kayaking in beautiful downtown Austin
 
-The starter includes:
+<img src="../images/running.jpg"
+     alt="running"
+     style="width: 200px; height: 200px;" />
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
+> Approaching the finish line of the 2019 Rock 'n' Roll, San Antonio Marathon
 
-So, there you have it... enjoy!
+**— Charles Roberts**

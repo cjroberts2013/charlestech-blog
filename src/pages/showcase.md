@@ -1,89 +1,14 @@
 ---
-title: "Showcase"
-date: "2018-07-17"
-author: "Hello Robot"
-path: "/showcase"
+title: "Roadmap"
+date: "2020-01-18"
+author: "Charles"
+path: "/roadmap"
 ---
 
-## Header 2
+## Front-end Developer Roadmap
 
-Backup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.
+This is probably the greatest resource I have found when it comes to front-end development. Starting out can be overwhelming. There are so many technologies and many of them build off of each other. This roadmap greatly simplifies things and shows you a straight forward path. By following this roadmap, you can avoid the pitfall of not knowing what to learn first and jumping around to often. It shows to the most important skills to learn along with many resourse to learn those skills. I highly recommend checking out the full article for more in depth discussion on the topic. you can find it by clicking [HERE](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 
-> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.
-
-### Header 3
-
-Brute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.
-
-```css
-/* PostCSS code by PrismJS */
-
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
-
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
-
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
-
-    .dark-theme & {
-      color: inherit;
-    }
-  }
-}
-```
-
-```js
-// JS code by PrismJS
-
-const menuTrigger = document.querySelector('.menu-trigger')
-const menu = document.querySelector('.menu')
-const mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')
-const isMobile = () => window.matchMedia(mobileQuery).matches
-const isMobileMenu = () => {
-  menuTrigger.classList.toggle('hidden', !isMobile())
-  menu.classList.toggle('hidden', isMobile())
-}
-
-isMobileMenu()
-
-menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
-
-window.addEventListener('resize', isMobileMenu)
-```
-
-```html
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-```
-
-#### Header 4
-
-Traffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.
-
-- Fsociety delete malicious code nodes.
-- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.
-- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.
-- Anonymous boot up website AFK.
-  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
-  - Reboot sys admin worm log file wipe.
-
-`youtube: xIBiJ_SzJTA`
-
-Tor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.
+<img src="../images/roadmap.png"
+     alt="roadmap"
+     style="width: 200px; height: 200px;" />
