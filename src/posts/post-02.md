@@ -1,5 +1,5 @@
 ---
-title: "Post # 2"
+title: "React Components | Post #2"
 path: "/post-02"
 date: "2020-01-19"
 author: "Charles"

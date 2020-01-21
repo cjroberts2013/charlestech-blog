@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "First Post | Post #1"
 path: "/post-01"
 date: "2020-01-18"
 coverImage: "../images/about.jpg"
