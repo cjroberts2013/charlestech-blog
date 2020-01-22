@@ -7,7 +7,7 @@ const postCSSMixins = require("postcss-mixins");
 
 module.exports = {
   siteMetadata: {
-    title: `CharlesTech Blog`,
+    title: `CharlesTech`,
     description: `My daily tech blog`,
     copyrights: "",
     author: `Charles`,
@@ -15,19 +15,27 @@ module.exports = {
       src: "",
       alt: "",
     },
-    logoText: "CharlesTech Blog",
+    logoText: "CharlesTech",
     defaultTheme: "dark",
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 4,
     menuMoreText: "Show more",
     mainMenu: [
       {
         title: "Home",
+        path: "/home",
+      },
+      {
+        title: "Blogs",
         path: "/#",
       },
       {
         title: "About",
         path: "/about",
+      },
+      {
+        title: "Contact",
+        path: "/contact",
       },
     ],
   },
