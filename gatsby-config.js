@@ -23,19 +23,11 @@ module.exports = {
     mainMenu: [
       {
         title: "Home",
-        path: "/home",
-      },
-      {
-        title: "Blogs",
         path: "/#",
       },
       {
         title: "About",
         path: "/about",
-      },
-      {
-        title: "Contact",
-        path: "/contact",
       },
     ],
   },
