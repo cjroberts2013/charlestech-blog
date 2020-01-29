@@ -19,4 +19,4 @@ The second topic covered serverside rendering with apollo. This was another very
 
 The third topic was over how to use React Poratals & Refs. These were both topics that I have not reached yet in my React learning so I was glad to get an in person introduction with examples. 
 
-Overall, I had an amazing time at this meetup. There were so many interesting poeple there (300+), all ready to learn and discuss coding and react. This is a meetup group I plan to participate with for a long time. Next month's topic is GraphQL and I will definetely be there. So if you are in the Austin area and interested in software development, I high recommend checking it out.
+Overall, I had an amazing time at this meetup. There were so many interesting poeple there (300+), all ready to learn and discuss coding and react. This is a meetup group I plan to participate with for a long time. Next month's topic is GraphQL and I will definitely be there. So if you are in the Austin area and interested in software development, I high recommend checking it out.
