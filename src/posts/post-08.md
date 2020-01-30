@@ -1,5 +1,5 @@
 ---
-title: "Redux | Post #8"
+title: "React Meetup | Post #8"
 path: "/post-08"
 date: "2020-01-28"
 author: "Charles"
