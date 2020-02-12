@@ -8,9 +8,9 @@ excerpt: ""
 tags: ["react meetup"]
 ---
 
-# React Meetup
+# React Meetup! 
 
-So this evening i attended my first coding meetup in Austin. It was focused on Reactjs and covered a few different topics. 
+So this evening I attended my first coding meetup in Austin. It was focused on Reactjs and covered a few different topics. 
 
 
 The first topic covered apollo hooks and testing. This was a new topic for me but something a have been interested in learning. GraphQL is on my list of technologies to learn soon. 
